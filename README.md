@@ -1,1 +1,1 @@
-# this is readme file
+This project includes a small front end website for food delivery application.
